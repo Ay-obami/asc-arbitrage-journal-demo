@@ -1,0 +1,1 @@
+{"observedGapBps":130,"sourcePrice":"1010000","confirmPrice":"1010000","destPrice":"996994","rule":"R-ARB-1","llmRationale":"The confirmed source price exhibits zero drift across observations and the 130 bps gap against the destination DEX provides a substantial, actionable margin well beyond typical execution noise.","timestamp":"2026-08-23T21:37:08.351Z"}
