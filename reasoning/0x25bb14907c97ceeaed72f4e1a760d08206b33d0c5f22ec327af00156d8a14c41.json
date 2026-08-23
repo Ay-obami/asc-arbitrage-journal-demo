@@ -1,0 +1,1 @@
+{"observedGapBps":140,"sourcePrice":"1010000","confirmPrice":"1011000","destPrice":"996982","rule":"R-ARB-1","llmRationale":"The 140 bps spread between the source and destination DEX is substantial, and the minimal 10 bps drift across independent source attestations indicates a stable, confirmed opportunity.","timestamp":"2026-08-23T22:23:48.998Z"}
